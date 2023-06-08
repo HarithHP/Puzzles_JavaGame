@@ -1,4 +1,4 @@
-**~ Puzzles~ **
+**Puzzles**
 
 Description and Usage - This is a windows game application which having five different puzzles, created using data structures and algorithms.The Correct answers  of the users' save in the database.
 
